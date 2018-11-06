@@ -15,3 +15,4 @@ Users have a total of 28 S.P.E.C.I.A.L. points to spread out as they please. No 
  - Ensure the user is not able to move past the minimum or maximum points
  - Ensure the user is not able to spend more points than available
  - Show an error message to the user if they try and break the outlined rules
+# SPECIAL-React-practice
